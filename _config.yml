@@ -11,7 +11,7 @@ title                    : "Michael Zuze"
 title_separator          : "-"
 name                     : &name "Michael Zuze"
 description              : &description "personal description"
-url                      : https://timothykohler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://michaelzuze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filenamxfe of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,10 +84,10 @@ author:
   avatar           : "Screenshot 2024-07-31 at 21.13.38.png" 
   bio              : "Applied development microeconomist"
   location         : "Cape Town, South Africa"
-  employer         : "University of Cape Town; World Bank"
+  employer         : "Stellenbosch University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=yH9INqwAAAAJ&hl=en"
-  email            : "tim.kohler@uct.ac.za"
+  googlescholar    : "https://scholar.google.com/citations?user=X66Huc8AAAAJ&hl=en"
+  email            : "michaelzuzee@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Tim-Koehler" 
   uri              :
   bitbucket        :
